@@ -3,9 +3,6 @@ set -x PYTHONPATH $HOME/Code/: $HOME/Code/luigi/: $PYTHONPATH
 set CDPATH . "$HOME" $CDPATH
 set -x LUIGIPATH /home/abw11/Code/pymouse/client.cfg
 
-set CC=clang
-set CPP=clang
-
 set fish_greeting ""
  
 function fish_user_key_bindings
