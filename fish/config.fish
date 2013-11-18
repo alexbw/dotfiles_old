@@ -1,7 +1,7 @@
 set PATH /usr/local/anaconda/bin "$HOME"/anaconda/bin "$HOME"/anaconda/lib "$HOME"/anaconda/include/python2.7/ "$HOME"/bin /usr/local/bin /usr/local/share/npm/bin /opt/local/bin /opt/local/sbin $PATH
 set -x PYTHONPATH $HOME/Code/: $HOME/Code/luigi/: $PYTHONPATH
 set CDPATH . "$HOME" $CDPATH
-set -x LUIGIPATH /home/abw11/Code/pymouse/client.cfg
+set -x LUIGIPATH "$HOME"/Code/pymouse/client.cfg
 
 set fish_greeting ""
  
